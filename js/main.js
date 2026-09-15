@@ -223,7 +223,7 @@ if (contactForm) {
         throw new Error('Form endpoint returned an error');
       }
     } catch (err) {
-      formNote.textContent = 'Something went wrong sending that. Please try again, or email info@slosa.ng directly.';
+      formNote.textContent = 'Something went wrong sending that. Please try again, or email saintlukesoldstudent@gmail.com directly.';
       submitBtn.disabled = false;
       submitBtn.textContent = 'Send message';
     }
