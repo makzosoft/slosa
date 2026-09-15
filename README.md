@@ -35,6 +35,6 @@ python3 -m http.server
 ## Placeholder content to replace before launch
 
 - The school anthem lyrics are Lorem Ipsum placeholder text, styled to match the National Anthem card. Swap in the real verses when the secretariat has them.
-- Phone number, WhatsApp link, Facebook, Instagram and X handles are placeholders (`+234 803 456 7890`, `@slosa_bariga`, `@slosa_ng`, `facebook.com/slosaofficial`). Replace with the real ones.
-- The Executive & Set Portfolio role cards (President, Vice President, and so on) have no real names attached yet, since none were supplied. Add photos and names when ready.
-- The contact email `info@slosa.ng` assumes that domain will be used; update if a different one is registered.
+- Instagram (`@slosa_bariga`) and X (`@slosa_ng`) handles are still placeholders. Phone, email, and Facebook are now the real ones the secretariat sent.
+- The Executive & Set Portfolio role cards (President, Vice President 1 and 2, and so on) have no real names or photos attached yet, since none were supplied. Add them when ready.
+- The canonical site URL and Open Graph image tags in `index.html` assume the domain `slosa.ng`; update those if a different domain is registered.
